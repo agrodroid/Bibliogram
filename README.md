@@ -7,9 +7,13 @@ Android app to search for books using Google Books API.
 
 - 100% Kotlin
 - Fully using MVVM pattern
-- Videos open in YouTube
-- Local caching using Room Library
+- Links open in Google Books website to read
 - Uses Retrofit + Moshi
+- Single activity multiple fragments pattern
+- Fast
+- Efficient UI
+- Network error indicator
+- Jetpack libraries used
 
   
 <img src="https://github.com/agrodroid/Bibliogram/blob/new-branch/Bibliogram.png?raw=true" width="30%">
