@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bibliogram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for">Search for</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="read">Read</string>
+    <string name="textview">TextView</string>
+    <string name="_300_pages">300 Pages</string>
+    <string name="english">English</string>
+    <string name="more">More</string>
+    <string name="javascript">JavaScript</string>
+    <string name="retry">Retry</string>
+    <string name="internet_unavailable">Internet Unavailable</string>
+</resources>
