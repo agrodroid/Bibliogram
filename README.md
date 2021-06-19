@@ -2,6 +2,7 @@
 Android app to search for books using Google Books API.
 - [@agrodroid](https://github.com/agrodroid)
 
+<img src="https://github.com/agrodroid/Bibliogram/blob/new-branch/Bibliogram.png?raw=true" width="30%">
   
 ## Features
 
@@ -16,10 +17,6 @@ Android app to search for books using Google Books API.
 - Jetpack libraries used
 - Loading status indicator
 - View binding used
-
-  
-<img src="https://github.com/agrodroid/Bibliogram/blob/new-branch/Bibliogram.png?raw=true" width="30%">
-
     
 ## Screenshots
 <img src="https://github.com/agrodroid/Bibliogram/blob/new-branch/biblio1.jpg?raw=true" width="30%">
