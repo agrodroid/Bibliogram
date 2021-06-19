@@ -1,8 +1,9 @@
 # Bibliogram
 Android app to search for books using Google Books API.
-- [@agrodroid](https://github.com/agrodroid)
 
 <img src="https://github.com/agrodroid/Bibliogram/blob/new-branch/Bibliogram.png?raw=true" width="30%">
+
+- [@agrodroid](https://github.com/agrodroid)
   
 ## Features
 
